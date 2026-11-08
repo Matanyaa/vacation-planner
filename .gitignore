@@ -1,0 +1,4 @@
+node_modules/
+*-firebase-adminsdk-*.json
+gcp-key.json
+.DS_Store
