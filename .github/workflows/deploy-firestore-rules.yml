@@ -3,9 +3,6 @@ name: Deploy Firestore Rules
 on:
   push:
     branches: [main]
-    paths:
-      - 'firebase/firestore.rules'
-      - 'firebase/firebase.json'
   workflow_dispatch:
 
 jobs:
